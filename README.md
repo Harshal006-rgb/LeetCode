@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Harshal006-rgb/LeetCode/tree/master/0146-lru-cache) |
+| [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 ## Linked List
 |  |
 | ------- |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Harshal006-rgb/LeetCode/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
+## Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
+## Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
