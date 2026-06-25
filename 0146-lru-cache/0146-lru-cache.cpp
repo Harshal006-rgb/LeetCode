@@ -65,9 +65,9 @@ public:
             m.erase(tail->prev->key);
             deletNode(tail->prev);
         }
-
-        addNode(new Node(key_,value));
-        m[key_] = head->next;
+        Node* newNode = new Node(key_,value);
+        addNode(newNode);
+        m[key_] = newNode;
         
     }
 };
