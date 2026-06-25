@@ -48,7 +48,7 @@ public:
             m.erase(key_);
             deletNode(resNode);
             addNode(resNode);
-            m[key_] = head->next;
+            m[key_] = resNode;
             return resNode->val;
         }
         return -1;
