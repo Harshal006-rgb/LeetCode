@@ -15,15 +15,13 @@ public:
             return;
         }
         for( int i = idx ; i < n ; i++ ) {
+            if(target < arr[i]) continue;  //use break only when arr is sorted
             nums.push_back(arr[i]);
-            if(target>=arr[i]) {
-                rec(arr,target-arr[i],ans,nums,i,n);
-            }
+            rec(arr,target-arr[i],ans,nums,i,n);
             nums.pop_back();
         }
 
         // Method 2;
-        
         
         // if( idx == n ){
         //     if( target == 0 ){
