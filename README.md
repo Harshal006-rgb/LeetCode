@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -71,10 +73,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
