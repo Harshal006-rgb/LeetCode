@@ -8,22 +8,39 @@ public:
         return ans;
     }
 
-    void rec(vector<int>& arr,int target,vector<vector<int>> &ans , vector<int> nums , int i , int n ){
-        if( i == n ){
-            if( target == 0 ){
-                ans.push_back(nums);
-            }
+    void rec(vector<int>& arr,int target,vector<vector<int>> &ans , vector<int> nums , int idx , int n ){
+        // Method 1;
+        if( target == 0 ){
+            ans.push_back(nums);
             return;
         }
-
-        rec(arr,target,ans,nums,i+1,n);
-
-        if(target>=arr[i]){
+        for( int i = idx ; i < n ; i++ ) {
             nums.push_back(arr[i]);
-            rec(arr,target-arr[i],ans,nums,i,n);
-            // nums.pop_back();
+            if(target>=arr[i]) {
+                rec(arr,target-arr[i],ans,nums,i,n);
+            }
+            nums.pop_back();
         }
 
+        // Method 2;
+        
+        
+        // if( idx == n ){
+        //     if( target == 0 ){
+        //         ans.push_back(nums);
+        //     }
+        //     return;
+        // }
+
+        // // Take
+        // if(target>=arr[i]){
+        //     nums.push_back(arr[i]);
+        //     rec(arr,target-arr[i],ans,nums,i,n);
+        //     nums.pop_back();
+        // }
+            
+        // // Not-Take
+        // rec(arr,target,ans,nums,i+1,n);
 
 
 
