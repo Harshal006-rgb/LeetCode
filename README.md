@@ -84,8 +84,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0110-balanced-binary-tree) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
