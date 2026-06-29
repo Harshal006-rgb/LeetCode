@@ -4,26 +4,11 @@ public:
         if(!root) return 0;
         //to collect parent nodes
         unordered_map<TreeNode*,TreeNode*> parent;
-        getparent(root,parent);
-
-        TreeNode* target = gettarget(root,start);
-
+        // get parents + finds target
+        TreeNode* target = getparent(root,parent,start);
         //using bfs 
         return gettime(target,parent);
         
-    }
-
-    TreeNode* gettarget(TreeNode* root, int start){
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* node = q.front();
-            q.pop();
-            if(node->val == start) return node;
-            if(node->left) q.push(node->left);
-            if(node->right) q.push(node->right);
-        }
-        return NULL;
     }
 
     int gettime( TreeNode* target ,unordered_map<TreeNode*,TreeNode*> &parent ){
@@ -63,7 +48,8 @@ public:
 
     
 
-    void getparent(TreeNode* root ,unordered_map<TreeNode*,TreeNode*> &parent ){
+    TreeNode* getparent(TreeNode* root ,unordered_map<TreeNode*,TreeNode*> &parent , int start){
+        TreeNode* target;
         queue<TreeNode*> q;
         q.push(root);
         parent[root] = NULL;
@@ -71,6 +57,7 @@ public:
         while(!q.empty()){
             TreeNode* node = q.front();
             q.pop();
+            if(node->val == start ) target = node;
             if(node->left){
                 parent[node->left] = node; 
                 q.push(node->left);
@@ -80,6 +67,8 @@ public:
                 q.push(node->right);
             }
         }
+
+        return target;
     }
 
 
