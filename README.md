@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Harshal006-rgb/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
