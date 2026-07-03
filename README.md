@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
