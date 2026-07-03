@@ -1,13 +1,28 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
-        vector<int> ans;
-        for( int num : nums){
-            if(num%2==0) ans.push_back(num);        
+        int n = nums.size();
+        int low = 0;
+        int mid = 0;
+        int high = n-1;
+
+        while(mid<=high){
+            if(nums[mid]%2 == 0){
+                if(nums[low]%2){
+                    swap(nums[low],nums[mid]);
+                    low++;
+                } 
+                else{
+                    mid++;
+                    low++;
+                }
+            }
+            else{
+                if(nums[high]%2 == 0) swap(nums[high],nums[mid]);
+                high--;
+            }
         }
-        for( int num : nums){
-            if(num%2) ans.push_back(num);        
-        }
-        return ans;
+
+        return nums;
     }
 };
