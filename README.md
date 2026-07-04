@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0206-reverse-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
