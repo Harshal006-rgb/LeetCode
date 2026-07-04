@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
