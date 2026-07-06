@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1036-rotting-oranges](https://github.com/Harshal006-rgb/LeetCode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Harshal006-rgb/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Harshal006-rgb/LeetCode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Harshal006-rgb/LeetCode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
