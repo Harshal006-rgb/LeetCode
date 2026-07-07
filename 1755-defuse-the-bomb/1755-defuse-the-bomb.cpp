@@ -5,19 +5,25 @@ public:
         vector<int> ans(n,0);
         if( k == 0 ) return ans;
 
+        int i = 0 , j = 0; 
+
         if( k > 0 ){
-            for( int i = 0 ; i < n ; i++ ) {
-                for( int j = i+1 ; j <= i+k ; j++ ) {
-                    ans[i] += code[j%n];                    
-                }
-            }
+            i = 1;
+            j = k;            
         }
         else {
-            for( int i = 0 ; i < n ; i++ ) {
-                for( int j = i-1+n ; j >= i+k+n ; j-- ) {
-                    ans[i] += code[j%n];                    
-                }
-            }
+            i = n-abs(k);
+            j = n-1;
+        }
+        int sum = 0;
+        for( int k = i ; k <= j ; k++ ) sum += code[k];
+
+        for( int k = 0 ; k < n ; k++ ) {
+            ans[k] = sum;
+            sum -= code[i%n];
+            i++;
+            sum += code[(j+1)%n];
+            j++;
         }
         return ans;
 
