@@ -4,8 +4,8 @@ using namespace std;
 // Using disjoit set method
 
 class DisjointSet {
-    vector<int> rank, parent, size;
 public:
+    vector<int> rank, parent, size;
     DisjointSet(int n) {
         rank.resize(n + 1, 0);
         size.resize(n + 1, 1); // Every node initially has size 1
@@ -75,7 +75,9 @@ public:
         int cnt = 0;
 
         for( int i = 0 ; i < n ; i++ ) {
-            if( ds.findUPar(i) == i ) cnt++;
+            // if( ds.findUPar(i) == i ) cnt++;
+            if( ds.parent[i] == i ) cnt++;
+            
         }
         return cnt;
     }
