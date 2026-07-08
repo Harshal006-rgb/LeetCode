@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Harshal006-rgb/LeetCode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
 ## Backtracking
 |  |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Harshal006-rgb/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
