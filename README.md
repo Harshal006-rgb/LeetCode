@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshal006-rgb/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/Harshal006-rgb/LeetCode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0983-validate-stack-sequences) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Harshal006-rgb/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -223,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
