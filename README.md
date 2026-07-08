@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Harshal006-rgb/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
@@ -221,12 +223,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Harshal006-rgb/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Harshal006-rgb/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
