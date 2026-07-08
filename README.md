@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Harshal006-rgb/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
 ## Backtracking
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
