@@ -1,34 +1,45 @@
+
 class Solution {
 public:
-    TreeNode* add(TreeNode* root, int val, int depth, int curr) {
-        if (!root)
-            return nullptr;
-
-        if (curr == depth - 1) {
-            TreeNode* lTemp = root->left;
-            TreeNode* rTemp = root->right;
-
-            root->left = new TreeNode(val);
-            root->right = new TreeNode(val);
-            root->left->left = lTemp;
-            root->right->right = rTemp;
-
-            return root;
-        }
-
-        root->left = add(root->left, val, depth, curr + 1);
-        root->right = add(root->right, val, depth, curr + 1);
-
-        return root;
-    }
-
     TreeNode* addOneRow(TreeNode* root, int val, int depth) {
         if (depth == 1) {
-            TreeNode* newRoot = new TreeNode(val);
-            newRoot->left = root;
-            return newRoot;
+            TreeNode* newroot = new TreeNode(val);
+            newroot->left = root;
+            return newroot;
         }
 
-        return add(root, val, depth, 1);
+        queue<TreeNode*> q;
+        q.push(root);
+        int d = 0;
+
+        while (!q.empty()) {
+
+            int n = q.size();
+            d++;
+
+            for (int i = 0; i < n; i++) {
+
+                TreeNode* node = q.front();
+                q.pop();
+
+                if (depth == d + 1) {
+                    TreeNode* newleft = new TreeNode(val);
+                    TreeNode* newright = new TreeNode(val);
+
+                    if(node->left) newleft->left = node->left;
+                    node->left = newleft;
+
+                    if(node->right) newright->right = node->right;
+                    node->right = newright;
+                }
+
+                if (node->left)
+                    q.push(node->left);
+                if (node->right)
+                    q.push(node->right);
+            }
+        }
+
+        return root;
     }
 };
