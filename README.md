@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshal006-rgb/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Harshal006-rgb/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0143-reorder-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Harshal006-rgb/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
