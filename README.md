@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Harshal006-rgb/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Harshal006-rgb/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Harshal006-rgb/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Harshal006-rgb/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Harshal006-rgb/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Harshal006-rgb/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
