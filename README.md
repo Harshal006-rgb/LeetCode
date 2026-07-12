@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshal006-rgb/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/Harshal006-rgb/LeetCode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0389-find-the-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/0389-find-the-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
