@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
 | [0832-binary-tree-pruning](https://github.com/Harshal006-rgb/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/Harshal006-rgb/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshal006-rgb/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
+| [0871-keys-and-rooms](https://github.com/Harshal006-rgb/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Harshal006-rgb/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshal006-rgb/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Harshal006-rgb/LeetCode/tree/master/0744-network-delay-time) |
+| [0871-keys-and-rooms](https://github.com/Harshal006-rgb/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshal006-rgb/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
