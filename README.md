@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Harshal006-rgb/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
+| [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Binary Search
 |  |
 | ------- |
