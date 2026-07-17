@@ -1,3 +1,5 @@
+typedef pair<int, int> pp;
+
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
@@ -7,20 +9,25 @@ public:
             map[nums[i]]++;
         }
 
-        vector<pair<int,int>> bucket;
-        for( auto x: map){
-            bucket.push_back({x.second,x.first});
+        priority_queue< pp ,vector<pp>, greater<pp> > pq;
+
+        for( auto it : map ){
+            int a = it.first;
+            int b = it.second;
+            pq.push({b,a});
+            if( pq.size() > k ){
+                pq.pop();
+            }
         }
 
-        sort(bucket.begin(),bucket.end());
-        
         vector<int> ans;
 
-        for( int i = bucket.size()-1 ; i >= 0 ;i--){
-            ans.push_back(bucket[i].second);
-            if(ans.size() >= k) break;
+        while(!pq.empty()){
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
 
-        return ans ;
+        return ans;
+
     }
 };
