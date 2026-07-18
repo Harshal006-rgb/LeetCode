@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Harshal006-rgb/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Harshal006-rgb/LeetCode/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Design
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0009-palindrome-number) |
+| [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Binary Search
@@ -393,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshal006-rgb/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
