@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Harshal006-rgb/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/Harshal006-rgb/LeetCode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Harshal006-rgb/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
