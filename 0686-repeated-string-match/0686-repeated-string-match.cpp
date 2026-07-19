@@ -5,26 +5,21 @@ public:
     {
         int n = a.size();
         int m = b.size();
-        int i = 0;
-        int cnt = 1;
+        int cnt = m/n;
 
-        while( i < n ){
-            if(b[0] == a[i]){
-                if( i == 0 ) cnt = 0;
-                int k = 0;
-                int idx = i;
-                while(b[k] == a[idx] && k < m){
-                    k++;
-                    if(idx == 0) cnt++;
-                    idx = (idx+1)%n;
-                }
-                if(k == m) return cnt;
-                else{
-                    cnt = 1;
-                }
-            }
+        string na = "";
+
+        int i = 0;
+        while(i < cnt){
+            na += a;
             i++;
         }
+
+        if( na.find(b) != std::string::npos) return cnt;
+        na += a;
+        if( na.find(b) != std::string::npos) return cnt+1;
+        na += a;
+        if( na.find(b) != std::string::npos) return cnt+2;
         return -1;
     }
 };
