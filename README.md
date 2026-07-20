@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Harshal006-rgb/LeetCode/tree/master/1036-rotting-oranges) |
+| [1138-grumpy-bookstore-owner](https://github.com/Harshal006-rgb/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1138-grumpy-bookstore-owner](https://github.com/Harshal006-rgb/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Harshal006-rgb/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Harshal006-rgb/LeetCode/tree/master/1755-defuse-the-bomb) |
