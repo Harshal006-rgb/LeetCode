@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2751-sliding-subarray-beauty](https://github.com/Harshal006-rgb/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal006-rgb/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2751-sliding-subarray-beauty](https://github.com/Harshal006-rgb/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal006-rgb/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Harshal006-rgb/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2751-sliding-subarray-beauty](https://github.com/Harshal006-rgb/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal006-rgb/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Shortest Path
 |  |
