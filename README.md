@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -496,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
