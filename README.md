@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshal006-rgb/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/Harshal006-rgb/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshal006-rgb/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Bucket Sort
 |  |
