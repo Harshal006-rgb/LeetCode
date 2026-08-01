@@ -1,34 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-        unordered_map<int,int>lost_map;
-        for(int i=0;i<matches.size();i++)
-        {
-            int lose=matches[i][1];
-        lost_map[lose]++;
+        unordered_map<int,int> win,loss;
+        set<int> st1,st2;
+
+        int n = matches.size();
+
+        for( int i = 0 ; i < n ; i++ ) {
+            int a = matches[i][0];
+            int b = matches[i][1];
+            win[a]++;
+            loss[b]++;            
         }
-        vector<int>notLost;
-        vector<int>onceLost;
-        for(int i=0;i<matches.size();i++)
-        {
-           int winner=matches[i][0];
-           int looser=matches[i][1];
-           if(lost_map.find(winner)==lost_map.end()) 
-           {
-               notLost.push_back(winner);
-               lost_map[winner]=2;
 
-           }
-           if(lost_map[looser]==1)
-           onceLost.push_back(looser);
-
+        for( int i = 0 ; i < n ; i++ ) {
+            int a = matches[i][0];
+            int b = matches[i][1];
+            if( loss[a] == 0 ) st1.insert(a);
+            if( loss[b] == 1 ) st2.insert(b);        
         }
-        sort(notLost.begin(),notLost.end());    
-        sort(onceLost.begin(),onceLost.end());
 
-        return {notLost,onceLost};
-
-
+        vector<vector<int>> ans;
+        vector<int> winner(st1.begin(),st1.end()) ,losser(st2.begin(),st2.end());
+        ans.push_back(winner);
+        ans.push_back(losser);
+        return ans;
 
         
     }
