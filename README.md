@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Harshal006-rgb/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Harshal006-rgb/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Harshal006-rgb/LeetCode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Harshal006-rgb/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Harshal006-rgb/LeetCode/tree/master/0043-multiply-strings) |
 | [0983-validate-stack-sequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Harshal006-rgb/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Harshal006-rgb/LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
