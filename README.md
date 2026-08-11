@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshal006-rgb/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
+| [0747-min-cost-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Harshal006-rgb/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Harshal006-rgb/LeetCode/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Harshal006-rgb/LeetCode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Harshal006-rgb/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
