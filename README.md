@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Harshal006-rgb/LeetCode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Harshal006-rgb/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Harshal006-rgb/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Harshal006-rgb/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Harshal006-rgb/LeetCode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Harshal006-rgb/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Harshal006-rgb/LeetCode/tree/master/0198-house-robber) |
