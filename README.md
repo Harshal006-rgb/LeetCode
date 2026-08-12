@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Harshal006-rgb/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Harshal006-rgb/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Harshal006-rgb/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Harshal006-rgb/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harshal006-rgb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Bucket Sort
 |  |
