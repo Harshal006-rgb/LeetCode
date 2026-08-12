@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Harshal006-rgb/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2428-equal-row-and-column-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2751-sliding-subarray-beauty](https://github.com/Harshal006-rgb/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Harshal006-rgb/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-equal-row-and-column-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2751-sliding-subarray-beauty](https://github.com/Harshal006-rgb/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal006-rgb/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Harshal006-rgb/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Harshal006-rgb/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2428-equal-row-and-column-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Harshal006-rgb/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2428-equal-row-and-column-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Tree
 |  |
 | ------- |
