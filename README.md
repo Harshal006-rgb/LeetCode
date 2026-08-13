@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal006-rgb/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Shortest Path
 |  |
 | ------- |
