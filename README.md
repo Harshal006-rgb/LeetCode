@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Harshal006-rgb/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Harshal006-rgb/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Harshal006-rgb/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Harshal006-rgb/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2751-sliding-subarray-beauty](https://github.com/Harshal006-rgb/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal006-rgb/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
