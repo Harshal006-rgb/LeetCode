@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Harshal006-rgb/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Harshal006-rgb/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshal006-rgb/LeetCode/tree/master/0011-container-with-most-water) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshal006-rgb/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshal006-rgb/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0287-find-the-duplicate-number) |
