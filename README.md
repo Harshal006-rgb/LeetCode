@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/Harshal006-rgb/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Harshal006-rgb/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Harshal006-rgb/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Harshal006-rgb/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Harshal006-rgb/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Harshal006-rgb/LeetCode/tree/master/0476-number-complement) |
 | [1022-unique-paths-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
