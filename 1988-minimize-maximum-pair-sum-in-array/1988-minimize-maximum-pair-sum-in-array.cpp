@@ -1,18 +1,28 @@
+
 class Solution {
 public:
     int minPairSum(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
+        int N = 100001;
+        vector<int> freq(N,0);
+        int l = INT_MAX;
+        int r = INT_MIN;
 
-        int n = nums.size();
-        int low = 0 , high = n-1;
-        int maxi = INT_MIN;
-
-        while(low<=high){
-            maxi = max(maxi,nums[low]+nums[high]);
-            low++;
-            high--;
+        for( int num : nums ) {
+            freq[num]++;
+            if( num > r ) r = num;
+            if( num < l ) l = num;
         }
 
+        int maxi = INT_MIN;
+
+        while( l <= r ){
+            while(!freq[l] && l<=r ) l++;
+            while(!freq[r] && l<=r ) r--;
+            if( l > r ) break;
+            maxi = max( maxi , l+r );
+            freq[l]--;
+            freq[r]--;
+        }
         return maxi;
     }
 };
