@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Harshal006-rgb/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshal006-rgb/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Recursion
