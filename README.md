@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Harshal006-rgb/LeetCode/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/Harshal006-rgb/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/Harshal006-rgb/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshal006-rgb/LeetCode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Harshal006-rgb/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Harshal006-rgb/LeetCode/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Harshal006-rgb/LeetCode/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/Harshal006-rgb/LeetCode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Harshal006-rgb/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshal006-rgb/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0768-partition-labels](https://github.com/Harshal006-rgb/LeetCode/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/Harshal006-rgb/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
