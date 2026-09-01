@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Harshal006-rgb/LeetCode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Harshal006-rgb/LeetCode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/Harshal006-rgb/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Harshal006-rgb/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Harshal006-rgb/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/Harshal006-rgb/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshal006-rgb/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Harshal006-rgb/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
