@@ -3,7 +3,7 @@ public:
     vector<int> traveldays;
     int mincostTickets(vector<int>& days, vector<int>& costs) {
         int n = days.size();
-        vector<int> dp(366,-1);
+        vector<int> dp(n+1,-1);
         return solve(costs,days,0,n,dp);
     }
 
