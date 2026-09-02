@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Harshal006-rgb/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Harshal006-rgb/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
