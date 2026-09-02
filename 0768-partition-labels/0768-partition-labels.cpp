@@ -12,15 +12,14 @@ public:
         int end = 0;
         vector<int> result;
 
-        for( int curr = 0 ; curr < n ; curr++ ) {
-            if( curr > end ){
-                result.push_back(end-start+1);
-                start = curr;
+        for( int i = 0 ; i < n ; i++ ) {
+            end = max(end,last_pos[s[i]-'a']);
+            if( i == end ){
+                result.push_back(i-start+1);
+                start = i+1;
             }
-            end = max(end,last_pos[s[curr]-'a']);
         }
-
-        result.push_back(end-start+1);
+        
         return result;
     }
 };
