@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [4245-count-commas-in-range](https://github.com/Harshal006-rgb/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
