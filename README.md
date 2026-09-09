@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Harshal006-rgb/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Harshal006-rgb/LeetCode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Harshal006-rgb/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshal006-rgb/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Harshal006-rgb/LeetCode/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/Harshal006-rgb/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Harshal006-rgb/LeetCode/tree/master/0876-hand-of-straights) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Harshal006-rgb/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Harshal006-rgb/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0115-distinct-subsequences) |
