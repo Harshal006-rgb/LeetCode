@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshal006-rgb/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal006-rgb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshal006-rgb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
 | [0797-rabbits-in-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Harshal006-rgb/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Harshal006-rgb/LeetCode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Harshal006-rgb/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
 ## Union-Find
 |  |
 | ------- |
@@ -665,4 +669,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Harshal006-rgb/LeetCode/tree/master/0139-word-break) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
