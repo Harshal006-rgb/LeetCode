@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Harshal006-rgb/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
 | [0797-rabbits-in-forest](https://github.com/Harshal006-rgb/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0866-rectangle-overlap](https://github.com/Harshal006-rgb/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshal006-rgb/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -684,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Harshal006-rgb/LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
