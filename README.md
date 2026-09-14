@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Harshal006-rgb/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Harshal006-rgb/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Queue
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Harshal006-rgb/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [4245-count-commas-in-range](https://github.com/Harshal006-rgb/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Harshal006-rgb/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshal006-rgb/LeetCode/tree/master/0486-predict-the-winner) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Harshal006-rgb/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
