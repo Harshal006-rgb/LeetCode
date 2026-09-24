@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harshal006-rgb/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Harshal006-rgb/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Harshal006-rgb/LeetCode/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/Harshal006-rgb/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0382-linked-list-random-node](https://github.com/Harshal006-rgb/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harshal006-rgb/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Harshal006-rgb/LeetCode/tree/master/0278-first-bad-version) |
@@ -689,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Harshal006-rgb/LeetCode/tree/master/0866-rectangle-overlap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshal006-rgb/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
