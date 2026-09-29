@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Harshal006-rgb/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Harshal006-rgb/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Harshal006-rgb/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshal006-rgb/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Harshal006-rgb/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Harshal006-rgb/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Harshal006-rgb/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Harshal006-rgb/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1731-even-odd-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshal006-rgb/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Harshal006-rgb/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshal006-rgb/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Harshal006-rgb/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1731-even-odd-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Harshal006-rgb/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Harshal006-rgb/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Harshal006-rgb/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Harshal006-rgb/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Harshal006-rgb/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshal006-rgb/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -681,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Harshal006-rgb/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Brute-Force Search
 |  |
 | ------- |
