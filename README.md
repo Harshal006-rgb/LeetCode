@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harshal006-rgb/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshal006-rgb/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Harshal006-rgb/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Harshal006-rgb/LeetCode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Harshal006-rgb/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Harshal006-rgb/LeetCode/tree/master/0143-reorder-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshal006-rgb/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Harshal006-rgb/LeetCode/tree/master/0983-validate-stack-sequences) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Harshal006-rgb/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Harshal006-rgb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Harshal006-rgb/LeetCode/tree/master/0091-decode-ways) |
@@ -731,4 +734,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harshal006-rgb/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
