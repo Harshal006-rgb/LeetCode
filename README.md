@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Sorting
 |  |
