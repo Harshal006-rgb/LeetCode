@@ -52,4 +52,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [1292-immediate-food-delivery-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
