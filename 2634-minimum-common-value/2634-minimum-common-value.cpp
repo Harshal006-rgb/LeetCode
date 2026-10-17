@@ -6,14 +6,21 @@ typedef long long ll;
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> mp;
+        int n = nums1.size();
+        int m = nums2.size();
 
-        for( int i : nums1 ) mp[i] = 1;
-        for( int i : nums2 ){
-            if( mp[i] == 1 ) return i;
-            mp[i] = 2;
+        int i = 0 , j = 0;
+        int common = INT_MAX;
+
+        while( i < n && j < m ){
+            if( nums1[i] == nums2[j] ){
+                common = nums1[i];
+                break;
+            }
+            else if( nums1[i] < nums2[j] ) i++;
+            else j++;
         }
 
-        return -1;
+        return common == INT_MAX ? -1 : common; 
     }
 };
