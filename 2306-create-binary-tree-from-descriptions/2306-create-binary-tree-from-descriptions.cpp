@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
@@ -6,8 +5,7 @@ public:
         int n = descriptions.size();
         unordered_map<int,int> l;
         unordered_map<int,int> r;
-        unordered_map<int,int> p;
-        set<int> st;
+        unordered_set<int> children;
 
 
         for( int i = 0 ; i < n ; i++ ) {
@@ -17,18 +15,21 @@ public:
 
             if(left) l[parent] = child;
             else r[parent] = child;
-            p[child] = parent;   
-            st.insert(child);
-            st.insert(parent);          
+            
+            children.insert(child);
         }
         
-        int rootval ;
-        for( int num : st ){
-            if(p.find(num) == p.end()){
-                rootval = num; 
+        int rootval;
+
+        for( auto ok : descriptions ){
+            int parent = ok[0];
+
+            if(!children.count(parent)){
+                rootval = parent; 
                 break;
             }
         }
+
         return treemaker(rootval,l,r);        
     }
 
@@ -36,19 +37,13 @@ public:
 
         TreeNode* root = new TreeNode(rootval);
 
-        TreeNode* leftnode = nullptr;
-        TreeNode* rightnode = nullptr;
+        if( l.count(root->val)){
+            root->left = treemaker(l[root->val],l,r);
+        }
+        if( r.count(root->val)){
+            root->right = treemaker(r[root->val],l,r);
+        }
 
-        if( l.find(root->val) != l.end() ){
-            leftnode = treemaker(l[root->val],l,r);
-        }
-        if( r.find(root->val) != r.end()  ){
-            rightnode = treemaker(r[root->val],l,r);
-        }
-        
-        root->left = leftnode;
-        root->right = rightnode;
-        
         return root;
 
     }
