@@ -7,12 +7,14 @@
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2634-minimum-common-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
 | ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2634-minimum-common-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Math
@@ -85,8 +87,10 @@
 |  |
 | ------- |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
