@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/2634-minimum-common-value) |
+## Tree
+|  |
+| ------- |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
