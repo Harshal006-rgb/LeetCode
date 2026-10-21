@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -34,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
@@ -82,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2634-minimum-common-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/2634-minimum-common-value) |
 ## Tree
 |  |
