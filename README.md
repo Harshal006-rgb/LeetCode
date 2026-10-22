@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harshal006-rgb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -15,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harshal006-rgb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2634-minimum-common-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -80,6 +82,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harshal006-rgb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
