@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Harshal006-rgb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
@@ -32,6 +33,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Sorting
