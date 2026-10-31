@@ -71,6 +71,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -94,11 +95,17 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
