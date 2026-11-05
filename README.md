@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Harshal006-rgb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Harshal006-rgb/LeetCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harshal006-rgb/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Sorting
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshal006-rgb/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

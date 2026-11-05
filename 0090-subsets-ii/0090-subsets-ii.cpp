@@ -22,6 +22,8 @@ public:
         }
         
         // Method - 2
+        // change idx to i first 
+        
         // if (i == nums.size()) {
         //     res.push_back(subset);
         //     return;
