@@ -15,6 +15,7 @@
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2634-minimum-common-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2833-count-zero-request-servers](https://github.com/Harshal006-rgb/LeetCode/tree/master/2833-count-zero-request-servers) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshal006-rgb/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2634-minimum-common-value](https://github.com/Harshal006-rgb/LeetCode/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2833-count-zero-request-servers](https://github.com/Harshal006-rgb/LeetCode/tree/master/2833-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2833-count-zero-request-servers](https://github.com/Harshal006-rgb/LeetCode/tree/master/2833-count-zero-request-servers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2833-count-zero-request-servers](https://github.com/Harshal006-rgb/LeetCode/tree/master/2833-count-zero-request-servers) |
 <!---LeetCode Topics End-->
