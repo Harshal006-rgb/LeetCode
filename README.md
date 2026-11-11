@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Harshal006-rgb/LeetCode/tree/master/0039-combination-sum) |
+| [0056-merge-intervals](https://github.com/Harshal006-rgb/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Harshal006-rgb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/0090-subsets-ii) |
@@ -43,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Harshal006-rgb/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Harshal006-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Harshal006-rgb/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harshal006-rgb/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [2833-count-zero-request-servers](https://github.com/Harshal006-rgb/LeetCode/tree/master/2833-count-zero-request-servers) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Harshal006-rgb/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
