@@ -74,6 +74,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Harshal006-rgb/LeetCode/tree/master/0175-combine-two-tables) |
 | [1292-immediate-food-delivery-ii](https://github.com/Harshal006-rgb/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 ## Depth-First Search
 |  |
